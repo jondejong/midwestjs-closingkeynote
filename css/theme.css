@@ -272,3 +272,14 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #3b759e; }
+
+.intro {
+  background-image: url('../resources/logo.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50px 50px;
+  background-size: 20%; }
+
+.reveal section img {
+  border: 0;
+  box-shadow: none; }

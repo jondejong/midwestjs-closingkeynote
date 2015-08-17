@@ -41,3 +41,20 @@ $mainFontSize: 28px;
 // Theme template ------------------------------
 @import "../template/theme";
 // ---------------------------------------------
+
+.intro {
+    background-image: url('../resources/logo.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50px 50px;
+    background-size: 20%;
+}
+
+.slide-header {
+
+}
+
+.reveal section img {
+   border: 0;
+    box-shadow: none;
+}
